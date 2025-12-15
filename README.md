@@ -1,1 +1,1 @@
-# AI-Based-Event-Planner-and-Scheduler
+# AI-Based-Event-Planner-and-Scheduler-Shared
