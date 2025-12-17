@@ -33,13 +33,13 @@ This project solves the complexity of manual coordination, lack of price transpa
 
 | Layer | Technology |
 | :--- | :--- |
-| **Frontend** | React.js, Vite, Tailwind CSS |
+| **Frontend** | React.js, Tailwind CSS |
 | **Backend** | Java (JDK 21+), Spring Boot 3.3.5 |
 | **Database** | MySQL (Spring Data JPA) |
 | **AI Engine** | Google Gemini API |
-| **Security** | Spring Security, BCrypt (Password Hashing) |
+| **Security** | BCrypt (Password Hashing) |
 | **Payments** | Razorpay (Test Mode) |
-| **Notifications** | JavaMailSender (SMTP) |
+
 
 ---
 
