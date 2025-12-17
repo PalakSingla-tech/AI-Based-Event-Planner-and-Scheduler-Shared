@@ -42,12 +42,6 @@ This project solves the complexity of manual coordination, lack of price transpa
 
 
 ---
-
-## 📸 Project Presentation & Screenshots
-*(Scroll to view the complete project details)*
-
-*(If images do not load, please check the `screenshots` folder in the repository)*
-
 ---
 
 ## ⚙️ Installation & Setup
